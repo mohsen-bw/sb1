@@ -3,6 +3,14 @@
 # BUAT YG MAU UBAH SILAHKAN UP SUKA SUAKA<br>
 # SUPORT BY: TBP [SILENTKILLER] TEAM BEBEK BOT,JUNSAN JUNIOR & ALL TEAM BOT<br>
 
+# MOSEN.bw![mosen.bw](https://github.com/mohsen-bw/sb1/blob/master/IMG_20181101_080615_342.jpg)
+V2.1 last update::05/0/2019
+----
+# PLEASE ADD ME [MOSEN.BW ](https://line.me/ti/p/~masih.00)
+
+
+# SC Sementara Sewaktu Waktu Akan Di Update
+
 # INSTALL MELALUI VPS<br>
 ========================================= <br>
 sudo apt-get update<br>
@@ -21,10 +29,10 @@ sudo pip3 install pafy<br>
 sudo pip3 install wikipedia<br>
 sudo pip3 install tweepy<br>
 sudo pip3 install youtube_dl<br>
-git clone https://github.com/dhenza1415/SELFBOT1<br>
-cd SELFBOT1<br>
+git clone https://github.com/mohsen-bw/sb1<br>
+cd sb1<br>
 ls<br>
-python selfbotsk.py<br>
+python selfbot.py<br>
 ======================================== <br>
 
 # INSTALL MELALUI TERMUX<br>
@@ -49,15 +57,14 @@ pip3 install tweepy<br>
 pip3 install pytz<br>
 pip3 install html5lib<br>
 pip3 install pafy<br>
-git clone https://github.com/dhenza1415/SELFBOT1<br>
+git clone https://github.com/mohsen-bw/sb1<br>
+cd sb1<br>
 ls<br>
-cd SELFBOT1<br>
-ls<br>
-python3 selfbotsk.py<br>
+python selfbot.py<br>
 
 source : linepy by https://github.com/dhenza1415<br>
 ## Like dan subscribe chanel youtube :( https://youtu.be/CRqXKcTl6IY)<br>
 ## [SUBCRABE NOW](https://www.youtube.com/dhenza15)
 KLIK
-## [CREATOR](http://line.me/ti/p/~teambotprotect)
+## [CREATOR](http://line.me/ti/p/~masih.00)
 
