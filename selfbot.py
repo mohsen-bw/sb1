@@ -2205,7 +2205,7 @@ def dhenzaBot(op):
             elif msg.text in ["Wellcome"]:
                 gs = dz.getGroup(msg.to)
                 dz.sendMessage(msg.to,"ᴡᴇʟʟᴄᴏᴍᴇ ᴛᴏ "+ gs.name)
-				dz.sendMessage(receiver, None, contentMetadata={'mid': dzMID}, contentType=13)
+		dz.sendMessage(receiver, None, contentMetadata={'mid': dzMID}, contentType=13)
 #=============================================
             elif msg.text in ["Cancel all"]:
                 group = dz.getGroup(msg.to)
